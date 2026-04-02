@@ -1,5 +1,4 @@
 # aws-lambda-s3-assignment
-# AWS Lambda & S3 – IAM Roles and Policies Explained
 
 ## Scenario
 A Lambda function is triggered when a file is created in an S3 bucket.
